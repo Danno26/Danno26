@@ -5,10 +5,10 @@
 
 🌱 I’m currently learning more backend coding such as:
 
--MySQL 
--MongoDB
--React
--Redux
+-MySQL<br>
+-MongoDB<br>
+-React<br>
+-Redux<br>
 
 🔭 I’m currently working on some front end projects to add to my portfolio! I like to take my time and make them look nice!
 <!--
