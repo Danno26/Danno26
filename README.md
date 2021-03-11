@@ -1,6 +1,6 @@
-<img src="https://images.unsplash.com/photo-1533282960533-51328aa49826?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1930&q=80"/>
+<img src="https://media.istockphoto.com/vectors/new-york-city-skyline-silhouette-vector-illustration-vector-id1152078220"/>
 
-### Hi there 👋, I'm Daniel Juarez. I am a beginner web developer and software engineer based in beautiful Southern California. Welcome to my G.H. page.<br>
+### Hi there 👋, I'm Daniel Juarez. I am a beginner web developer and software engineer based in the fast paced NYC. Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
 
 🌱 I’m currently learning more backend coding such as:
