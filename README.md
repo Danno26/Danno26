@@ -1,6 +1,6 @@
 <img src="https://static5.depositphotos.com/1027309/527/v/950/depositphotos_5272778-stock-illustration-skyline-new-york.jpg"/>
 
-### Hi there 👋, I'm Daniel Juarez. I am a beginner web developer and software engineer based in the fast paced NYC. Welcome to my G.H. page.<br>
+### Hi there 👋, I'm Daniel Juarez. I am a beginner web developer and software engineer based in the energetic and exciting NYC! Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
 
 🌱 I’m currently learning more backend coding such as:
@@ -16,7 +16,7 @@
 
 📫 How to reach me: [Email Me](mailto:dtjuarez26@gmail.com) <br>
 
-⚡ Fun fact: 
+⚡ Fun fact: I enjoy being a part of a team!
 <!--
 **Danno26/Danno26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
