@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/vectors/new-york-city-skyline-silhouette-vector-illustration-vector-id1152078220"/>
+<img src="https://static5.depositphotos.com/1027309/527/v/950/depositphotos_5272778-stock-illustration-skyline-new-york.jpg"/>
 
 ### Hi there 👋, I'm Daniel Juarez. I am a beginner web developer and software engineer based in the fast paced NYC. Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
@@ -16,7 +16,7 @@
 
 📫 How to reach me: [Email Me](mailto:dtjuarez26@gmail.com) <br>
 
-⚡ Fun fact: I am currently planning to move to NYC.
+⚡ Fun fact: 
 <!--
 **Danno26/Danno26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
