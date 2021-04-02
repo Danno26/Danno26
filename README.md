@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on some front end projects to add to my portfolio! I like to take my time and make them look nice!<br>
 
-📫 How to reach me: [Email Me](mailto:dtjuarez26@gmail.com) <br>
+📫 How to reach me: [Email Me](mailto:danieljuarez@mail.com) <br>
 
 ⚡ Fun fact: I enjoy being a part of a team!
 <!--
