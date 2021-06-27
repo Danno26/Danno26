@@ -2,6 +2,7 @@
 
 ### Hi there 👋, I'm Daniel, I am a beginner web developer and software engineer based in the energetic and exciting NYC! Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
+Since you're already here check out my "Online-Portfolio" repo, its a work in progress but I think it's coming along well!
 
 💬 Ask me about:<br>
 -HTML<br>
@@ -26,9 +27,8 @@
 
 📫 How to reach me: [Email Me](mailto:danieljuarez@mail.com) <br>
 
-⚡ Fun fact: I enjoy being a part of a team!
+⚡ Fun fact: I love problem solving, if you give me something to fix or figure out I become devoted to that!
 
-Since you're already here check out my "Online-Portfolio" repo, its a work in progress but I think it's coming along well!
 <!--
 **Danno26/Danno26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
