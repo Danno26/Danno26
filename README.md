@@ -3,15 +3,15 @@
 ### Hi there 👋, I'm Daniel, I am a beginner web developer and software engineer based in the energetic and exciting NYC! Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
 
-I have experience with:
--HTML
--CSS
--Bootstrap
--Javascript
--JQuery
--Web API's
--Responsive Design
--Accessibility
+💬 Ask me about:
+-HTML<br>
+-CSS<br>
+-Bootstrap<br>
+-Javascript<br>
+-JQuery<br>
+-Web API's<br>
+-Responsive Design<br>
+-Accessibility<br>
 
 🌱 I’m currently learning more backend coding such as:
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -  ...
 - 👯 I’m looking to collaborate on ...
 - 
-- 💬 Ask me about ...
+-  ...
 -  ...
 - 
 -  ...
