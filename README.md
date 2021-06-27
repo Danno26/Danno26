@@ -2,6 +2,7 @@
 
 ### Hi there 👋, I'm Daniel, I am a beginner web developer and software engineer based in the energetic and exciting NYC! Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
+
 Since you're already here check out my "Online-Portfolio" repo, its a work in progress but I think it's coming along well!
 
 💬 Ask me about:<br>
