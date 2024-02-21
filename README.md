@@ -22,13 +22,12 @@ Since you're already here check out my "Online-Portfolio" repo, its a work in pr
 -React<br>
 -Redux<br>
 
-🤔 I’m looking for help with finding an entry level position in software development any help would be appreciated!
 
-🔭 I’m currently working on some front end projects to add to my portfolio! I like to take my time and make them look nice!<br>
+🔭 I’m currently working on a few front-end projects to add to my portfolio! I like to take my time so that are well made!<br>
 
 📫 How to reach me: [Email Me](mailto:danieljuarez@mail.com) <br>
 
-⚡ Fun fact: I love problem solving, if you give me something to fix or figure out I become devoted to that!
+⚡ Fun fact: I love problem-solving, if you give me something to fix or figure out I become devoted to that!
 
 <!--
 **Danno26/Danno26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
