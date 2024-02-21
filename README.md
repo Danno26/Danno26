@@ -1,6 +1,6 @@
 <img src="https://static5.depositphotos.com/1027309/527/v/950/depositphotos_5272778-stock-illustration-skyline-new-york.jpg"/>
 
-### Hi there 👋, I'm Daniel, I am a beginner web developer and software engineer based in the energetic and exciting NYC! Welcome to my G.H. page.<br>
+### Hi there 👋, I'm Daniel, I am a junior web developer and software engineer based in the energetic and exciting NYC! Welcome to my G.H. page.<br>
 😄 Pronouns: He/Him
 
 Since you're already here check out my "Online-Portfolio" repo, its a work in progress but I think it's coming along well!
